@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>img_laptop48</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#004C9E" offset="0%"></stop>
+            <stop stop-color="#0796D8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Screen---Activity-Review" transform="translate(-11.000000, -246.000000)" stroke="url(#linearGradient-1)" stroke-width="2">
+            <g id="icons" transform="translate(11.000000, 228.000000)">
+                <g id="icon-laptop" transform="translate(0.000000, 18.000000)">
+                    <path d="M39.5737286,25.4592593 L39.5737286,9.25853566 C39.5737286,9.11575036 39.4609471,9 39.3230153,9 L8.67777676,9 C8.53931162,9 8.42706344,9.1151219 8.42706344,9.24029876 L8.42706344,30.1567383 C8.42706344,30.2894516 8.35342309,30.4894596 8.27144214,30.5923501 L2.02549207,38.4313536 C1.9395448,38.539222 1.98161351,38.6266667 2.1297992,38.6266667 L45.8709929,38.6266667 C46.0145474,38.6266667 46.0572809,38.5342441 45.9753,38.4313536 L39.7293499,30.5923501 C39.6434027,30.4844817 39.4567896,30.397037 39.3141333,30.397037 L13.3449579,30.397037" id="Path-153"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

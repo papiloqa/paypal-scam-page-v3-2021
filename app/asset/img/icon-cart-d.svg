@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="58px" viewBox="0 0 69 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-cart-d</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="B---Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="B---2.1.0-d---SL-Prompt---Type-A" transform="translate(-615.000000, -247.000000)" stroke="#0070BA" stroke-width="2">
+            <g id="Group-2" transform="translate(450.000000, 248.000000)">
+                <g id="icon-cart-d" transform="translate(166.000000, 0.000000)">
+                    <polyline id="Stroke-1" points="15.8750226 0.504610737 28.6614373 0.504610737 35.0939166 27.1695615 29.7150097 44.4233531 54.6955996 44.4233531"></polyline>
+                    <polyline id="Stroke-3" points="40.2507337 6.7787168 66.5792102 6.7787168 60.3724319 27.5101558 35.0225951 27.1713541"></polyline>
+                    <path d="M0.527352656,4.53333333 L24.9030638,4.53333333" id="Stroke-5"></path>
+                    <path d="M9.55539381,12.9333333 L26.708672,12.9333333" id="Stroke-8"></path>
+                    <path d="M17.4518603,20.6333333 L28.661979,20.6333333" id="Stroke-9"></path>
+                    <path d="M33.3460879,51.6024542 C33.3460879,53.5931384 31.7201377,55.2073763 29.7150097,55.2073763 C27.7098818,55.2073763 26.0839316,53.5931384 26.0839316,51.6024542 C26.0839316,49.61177 27.7098818,47.9975321 29.7150097,47.9975321 C31.7201377,47.9975321 33.3460879,49.61177 33.3460879,51.6024542 L33.3460879,51.6024542 Z" id="Stroke-10"></path>
+                    <path d="M56.8189949,51.6024542 C56.8189949,53.5931384 55.1930447,55.2073763 53.1879167,55.2073763 C51.1827888,55.2073763 49.5568386,53.5931384 49.5568386,51.6024542 C49.5568386,49.61177 51.1827888,47.9975321 53.1879167,47.9975321 C55.1930447,47.9975321 56.8189949,49.61177 56.8189949,51.6024542 L56.8189949,51.6024542 Z" id="Stroke-12"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

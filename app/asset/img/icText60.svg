@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="40px" viewBox="0 0 46 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icText60</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#009CDE" offset="0%"></stop>
+            <stop stop-color="#00CF92" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="VsD-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.2.0-d---SMS-Landing---Multiple-Phones" transform="translate(-489.000000, -299.000000)">
+            <g id="SMS" transform="translate(342.000000, 288.000000)">
+                <g id="icText60" transform="translate(140.000000, 0.000000)">
+                    <rect id="Specs" x="0" y="0" width="60" height="60"></rect>
+                    <path d="M29.6806796,12.6342262 C41.6377542,12.6342262 51.3662643,20.1979384 51.3662643,29.4997021 C51.3662643,35.0130694 47.9751837,39.8135578 41.8192441,43.0182435 L40.3068287,43.8096046 L41.0916497,49.3360524 L34.4566423,45.9531469 L33.6849016,46.0741401 C32.3670564,46.2801557 31.2437814,46.3602728 29.6806796,46.3602728 C17.7285101,46.3602728 8,38.7981956 8,29.4997021 C8,20.1979384 17.7285101,12.6342262 29.6806796,12.6342262" id="Page-1" stroke="url(#linearGradient-1)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
